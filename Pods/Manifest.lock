@@ -1,0 +1,20 @@
+PODS:
+  - ESTabBarController-swift (2.7)
+  - SideMenu (6.4.7)
+
+DEPENDENCIES:
+  - ESTabBarController-swift
+  - SideMenu (~> 6.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ESTabBarController-swift
+    - SideMenu
+
+SPEC CHECKSUMS:
+  ESTabBarController-swift: 4fb52ad03d94d0717ef97bc9eb09a5abfdded0a2
+  SideMenu: 928a015669c3afc201e1fe3a87f1b0bc8993a664
+
+PODFILE CHECKSUM: acdc33a8e387f55000a0fa4c13a46e9ba3d73861
+
+COCOAPODS: 1.7.1
